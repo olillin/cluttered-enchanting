@@ -2,7 +2,7 @@
   "pack": {
     "pack_format": 57,
     "supported_formats": [15, 57],
-    "description": "Bookshelves can power enchanting tables through any block"
+    "description": "Place anything next to your enchanting table!"
   },
   "overlays": {
     "entries": [
