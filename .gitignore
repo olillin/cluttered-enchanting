@@ -1,2 +1,9 @@
 .vscode/
 *.zip
+
+# Beet
+.beet_cache
+build/
+
+# Python
+__pycache__
