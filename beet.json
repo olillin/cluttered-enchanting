@@ -1,10 +1,10 @@
 {
-  "name": "No Blocking Enchanting Table",
+  "name": "Cluttered Enchanting",
   "description": "Place anything next to your enchanting table!",
   "author": "Olillin",
   "version": "1.1.0",
   "data_pack": {
-    "name": "no-blocking-enchanting-table-{{ project_version }}",
+    "name": "cluttered-enchanting-{{ project_version }}",
     "description": "{{ project_description }}",
     "pack_format": 57,
     "supported_formats": [
